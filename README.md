@@ -2,6 +2,8 @@
 
 A React application for creating persitent layouts of resizable/draggable Spark spaces in grid.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### `npm install`
 
 Install dependecies
