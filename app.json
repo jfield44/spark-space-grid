@@ -1,0 +1,13 @@
+{
+  "name": "Spark Space Grid",
+  "description": "A React application for creating persitent layouts of resizable/draggable Spark spaces in grid.",
+  "repository": "https://github.com/jfield44/spark-space-grid",
+  "env": {
+    "CLIENT_ID": {
+      "description": "Specify the Client ID of the Oauth client to authorize users with.
+You can create a new integration and obtain a Client ID at https://developer.ciscospark.com",
+      "required": true
+    }
+  },
+  "logo": "https://node-js-sample.herokuapp.com/node.svg"
+}
